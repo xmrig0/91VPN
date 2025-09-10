@@ -4,7 +4,7 @@
 
 ## **✨ 为什么选择 91机场？**
 
-- <span style="color: green;">**全球极速节点**</span>：覆盖全球多个地区的高速服务器，延迟低、速度快。
+- <span style="color: green;">**全球极速节点**</span>：覆盖全球法国、爱尔兰、韩国、美国、香港、日本、印度等多个地区的高速服务器，延迟低、速度快。
 - <span style="color: green;">**稳定可靠**</span>：全天候稳定运行，可用率高达 99.9%。
 - <span style="color: green;">**多设备支持**</span>：支持手机、电脑、平板等多设备使用，跨平台无缝切换。
 - <span style="color: green;">**隐私保护**</span>：采用顶级加密技术，保障您的网络安全。
