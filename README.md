@@ -41,7 +41,6 @@
 4. 下载客户端，配置节点，开始畅游全球网络！
 
 ---
-<img width="1793" height="1069" alt="截屏2025-09-10 14 45 37" src="https://github.com/user-attachments/assets/ee2f9563-3ed2-49e0-9679-101d2380efff" />
 
 ## **📸 服务套餐示例**
 ### **📸 月付白嫖一个月**
