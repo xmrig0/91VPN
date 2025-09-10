@@ -56,7 +56,7 @@
 
 ## **📸 服务套餐示例**
 
-![套餐详情和优惠示例]([./image.png](https://github.com/user-attachments/assets/1c2bf4a0-bfb2-4fbd-9b44-5a7c3270037b))
+![新用户套餐详情和优惠码](https://github.com/user-attachments/assets/1c2bf4a0-bfb2-4fbd-9b44-5a7c3270037b)
 
 ---
 
